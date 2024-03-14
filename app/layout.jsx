@@ -10,7 +10,7 @@ const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
     title: "Mohammed Farhan K C",
-    description: "Mohammed Farhan K C - Portfolio",
+    description: "Mohammed Farhan K C",
 };
 
 export default function RootLayout({ children }) {
